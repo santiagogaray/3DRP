@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{a0188b96-8cfd-4be5-8887-49a8ed1d89fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{5773d287-4f47-49e9-9f95-6c3cd24d10f3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Activity.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Driver.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Element.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Element3DList.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="SubElements.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Util.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Activity.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Driver.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Element.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Element3DList.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="SubElements.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
